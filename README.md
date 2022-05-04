@@ -1,2 +1,2 @@
 # tour
-Natours project built while learning advanced css
+Natours: Tour package booking front end project.
